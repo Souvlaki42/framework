@@ -1,0 +1,8 @@
+body {
+	background-color: black;
+	display: flex;
+	color: white;
+	text-transform: uppercase;
+	justify-content: center;
+	align-items: center;
+}
